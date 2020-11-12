@@ -27,6 +27,9 @@
 * <i> when you enter the details of the product then the bot will give information of the product.</i>
 * <i> If you want to buy the product then it will redirect to the product's website(when you enter buynow).</i>
   
+ # Concepts we learned from this project
+   * <i> We learnt implementation of  <b> FLASK </b> </i>
+   * <i> How to deploy a web application in <b>HEROKU </b>(CLOUD PLATFORM)</i>
  
  # Block Diagram 👇🏻
  
