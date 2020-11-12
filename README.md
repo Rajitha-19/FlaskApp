@@ -21,7 +21,7 @@
      ->  Brands\
      -> Features\
      -> Demo of the product(demo)\
-     -> websites avilable\
+     -> websites available\
      -> Buynow
 * <i>Enter the above given details of product.</i>
 * <i> when you enter the details of the product then the bot will give information of the product.</i>
@@ -31,6 +31,11 @@
  # Block Diagram 👇🏻
  
   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
+
+
+# Click the below link to chat with <i>SMARTHINGS BOT</i> 👇🏻
+* https://smarthingsbot.herokuapp.com/
+
 
 # Online Resources
 * https://flask.palletsprojects.com/en/1.1.x/
