@@ -31,3 +31,9 @@
  # Block Diagram 👇🏻
  
   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
+
+# Online Resources
+* https://flask.palletsprojects.com/en/1.1.x/
+* https://api.jquery.com/jquery.ajax/
+* https://devcenter.heroku.com/articles/git
+* https://www.w3schools.com/tags/ref_httpmethods.asp
