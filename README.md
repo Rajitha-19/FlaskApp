@@ -34,7 +34,7 @@
  
  # Block Diagram 👇🏻
  
-  ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
+  ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Smarthings%202.JPG)
 
 
 
