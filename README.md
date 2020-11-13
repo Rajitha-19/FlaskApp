@@ -52,14 +52,12 @@
 
 # Some of the images related to our chatbot
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S2ZIcJRMIc0/0.jpg)](https://www.youtube.com/watch?v=S2ZIcJRMIc0) 
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
    
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
    
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S2ZIcJRMIc0/0.jpg)](https://www.youtube.com/watch?v=S2ZIcJRMIc0) 
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
    
-   
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S2ZIcJRMIc0/0.jpg)](https://www.youtube.com/watch?v=S2ZIcJRMIc0) 
-
 # Online Resources
 * https://flask.palletsprojects.com/en/1.1.x/
 * https://api.jquery.com/jquery.ajax/
