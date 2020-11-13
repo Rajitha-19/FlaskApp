@@ -1,0 +1,24 @@
+{% extends 'messages/botbase.html' %}
+{% block content %}
+    {% if product=='colours' %}
+        <p>{{data[productname][product]}}</p>
+        <img src={{data[productname].images}}>
+
+    {% elif product=='brands' %}
+        <p>{{data[productname][product]}}</p>
+        <img src={{data[productname].more}}>
+
+    {% elif product=='features' %}
+        <p>{{data[productname][product]}}</p>
+
+    {% elif product=='websites' %}
+        <p>{{data[productname][product]}}</p>
+
+    {% elif product=='buynow' %}
+        <p><a href="https://www.amazon.com/" target="_blank">CLICK HERE</a></p>
+
+    {% elif product=='demo' %}
+        <p>watch the demo of the product</p>
+        <iframe src={{data[productname].video}} frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+{% endblock %}

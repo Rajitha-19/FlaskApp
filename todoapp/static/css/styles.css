@@ -1,0 +1,109 @@
+body{
+    background-color: pink;
+    background-size: cover;
+    background-attachment: fixed;
+    animation:imaganimation 5s infinite;
+    animation-duration:6s; 
+}
+@keyframes imaganimation{
+    20%  {background-color:pink;}
+    25%  {background-color:palegreen}
+    30%  {background-color: powderblue;}
+    40%  {background-color: grey;}
+    40% {background-color: khaki;}
+}
+.head{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQjhyIZ16k-HpezXgLk_aEFA7eswWk_7zBQA&usqp=CAU") ; 
+    text-align:center;
+    width:80%;
+    border:4px white solid;
+    margin:initial;
+    border-radius:0%;
+    font-weight:bold;
+    color:whitesmoke;
+    margin-top:0%;
+   
+}
+
+h2,h1,h3{
+    margin: 1%;
+}
+
+.main-heading{
+    font-family: fantasy;
+    background-color: brown;
+    font-size: xxx-large;
+}
+
+
+#chat{
+    background-image:url(../assets/bg.jpg);
+    width:80%;
+    margin:initial;
+    font-size: 20px;
+    font-weight: bold;
+    border:2px white solid;
+    border-radius: 0px;
+    margin-top:30px;
+}
+.msg{
+    display:flex;
+    padding:10px;
+}
+
+.content{
+    padding:10px 20px;
+    border-radius : 50px;
+    margin:0 10px;
+}
+
+.bot .content{
+    border-top-left-radius:0px;
+    background-color:rgba(255, 255, 255, 0.8);
+    width:50%;
+}
+.bot::before{
+    content:'';
+    width:70px;
+    height:70px;
+    border-radius:50px;
+    background-image: url(../assets/botimage.jpg);
+    background-size: cover;
+}
+.msg.user{
+    justify-content:flex-end;
+}
+.user .content{
+    border-top-right-radius:0px;
+    background-color:rgba(152, 251, 152, 0.748);
+}
+.user::after{
+    content:'';
+    width:70px;
+    height:70px;
+    border-radius:50px;
+    background-image: url(../assets/user.png);
+    background-size: cover;
+}
+
+.form{
+    min-width:150px;
+    display:block;
+    text-align: right;
+}
+.bot .content img{
+    width:300px;
+    height:300px;
+}
+.bot .content iframe{
+    width:300px;
+    height:300px;
+}
+.red-color{
+    color: red;
+}
+.label{
+    text-transform: capitalize;
+    font-weight:500;
+    margin-right: 10px;
+}
