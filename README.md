@@ -54,9 +54,9 @@
 
    ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
    
-   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(59).png)
    
-   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(59).png)
    
 # Online Resources
 * https://flask.palletsprojects.com/en/1.1.x/
