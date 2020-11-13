@@ -46,9 +46,10 @@
 
 
 # Click the below link to chat with <i>SMARTHINGS BOT</i> 👇🏻
+
 * https://smarthingsbot.herokuapp.com/
 
-* http://127.0.0.1:5000/
+
 
 # Some of the images related to our chatbot
 
