@@ -44,11 +44,21 @@
 
 
 
+
 # Click the below link to chat with <i>SMARTHINGS BOT</i> 👇🏻
 * https://smarthingsbot.herokuapp.com/
 
 * http://127.0.0.1:5000/
 
+# Some of the images related to our chatbot
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S2ZIcJRMIc0/0.jpg)](https://www.youtube.com/watch?v=S2ZIcJRMIc0) 
+   
+   
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S2ZIcJRMIc0/0.jpg)](https://www.youtube.com/watch?v=S2ZIcJRMIc0) 
+   
+   
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S2ZIcJRMIc0/0.jpg)](https://www.youtube.com/watch?v=S2ZIcJRMIc0) 
 
 # Online Resources
 * https://flask.palletsprojects.com/en/1.1.x/
