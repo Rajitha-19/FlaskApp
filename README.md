@@ -55,7 +55,7 @@
 
    ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/image1.PNG)
    
-   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(59).png)
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/image2.png)
    
    ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(60).png)
    
