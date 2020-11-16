@@ -53,7 +53,7 @@
 
 # Some of the images related to our chatbot
 
-   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(58).png)
+   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/image1.PNG)
    
    ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/FlaskApp/main/Screenshot%20(59).png)
    
